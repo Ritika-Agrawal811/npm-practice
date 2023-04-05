@@ -1,0 +1,54 @@
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: borer-box;
+}
+
+body {
+  background-color: #efefef;
+  font-family: sans-serif;
+}
+
+main {
+  width: min(95%, 1000px);
+  background-color: #fff;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #e2ddb5;
+  padding: 3em;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #003f87;
+}
+
+.packages-container {
+  padding: 0.5em;
+  margin-top: 2em;
+}
+
+h2 {
+  font-size: 1.75rem;
+  padding: 0.5em;
+  border-bottom: 2px solid #00611c;
+  color: #00611c;
+}
+
+.answers {
+  font-size: 1.15rem;
+  margin: 1em;
+  padding: 1em;
+}
+
+.answers li {
+  margin: 0.75em;
+}
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
